@@ -32,14 +32,32 @@ Bill of Materials:
 
 
 2 x XIAO-nRF52840-SMD
+
+
 40 x 1N5819 SMD Diodes
+
+
 40 x MX-Style switches
+
+
 40 x Blank DSA keycaps
+
+
 42 x SK6812-E Reverse Mount LEDs
+
+
 4 x Resistors (1 806k, 1 2M)
+
+
 12 x M3x10 Screws
+
+
 12 x M3x5mx4mm heatset inserts
+
+
 40 x Kailh hotswappable sockets
+
+
 2 x 0.96 inch OLED 
 
 1 x Case (6 3D printed parts - 3 left/right)
