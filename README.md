@@ -14,7 +14,10 @@ PCB:
 
 <img width="591" height="287" alt="image" src="https://github.com/user-attachments/assets/cb53808b-f623-4f48-b548-6a5ee7dce178" />
 
+
 3D View:
+
+
 <img width="383" height="217" alt="image" src="https://github.com/user-attachments/assets/a45d2cc3-0e85-48df-8a9a-b0017c126ae1" />
 
 
@@ -25,7 +28,7 @@ Schematic:
 
 
 
-Bill of Materials
+Bill of Materials:
 
 
 2 x XIAO-nRF52840-SMD
