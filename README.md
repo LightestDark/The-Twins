@@ -2,6 +2,12 @@
 
 Overview: 80 key fully backlight split keyboard, with a 0.96 inch oled each side to display vital info about the the keyboard whilst using. Powered with a 3.5V battery
 
+
+<img width="671" height="320" alt="image" src="https://github.com/user-attachments/assets/95845b25-f98c-4b50-a718-43243f57895f" />
+
+
+
+
 <img width="623" height="341" alt="image" src="https://github.com/user-attachments/assets/cd1dd38e-d0b4-4153-b646-deadfb49ad3a" />
 
 
