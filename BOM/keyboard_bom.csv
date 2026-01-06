@@ -1,14 +1,28 @@
-Quantity,Component,Link,Notes
-2,XIAO‑nRF52840‑SMD,https://www.aliexpress.com/item/1005006988954136.html,
-40,1N5819 SMD Diodes,https://www.aliexpress.com/item/1005001552094086.html,
-12,M3×5×4mm Heatset Inserts,https://www.aliexpress.com/item/4000232858343.html,
-40,MX‑Style switches,https://www.aliexpress.com/item/1005005611380330.html,
-40,Blank DSA Keycaps,https://www.amazon.co.uk/Keyboard-Gradient-Mechanical-Keyboards…,
-42,SK6812‑E Reverse Mount LEDs,https://www.aliexpress.com/item/1005005340818659.html,
-4,Resistors (incl. 806 kΩ & 2 MΩ),https://www.aliexpress.com/item/1005007982822787.html,
-12,M3×10 Screws,https://www.vital-parts.co.uk/low-head-socket-cap-screw-din-7984/14785-lsc7984-m3-16-a4?,
-40,Kailh Hotswappable Sockets,https://www.aliexpress.com/item/1005007232040760.html,
-2,0.96‑inch OLED,https://www.amazon.co.uk/dp/B07Z8QBRWN,
-1,Case (6 3D printed parts − 3 left/right),,Sourced by Hack Club
-1,Battery 1000Mah, https://www.aliexpress.com/item/1005007000725960.html,
+Category	Qty	Component	AliExpress Link	Unit Price (≈)	Total (≈)
+JLCPCB Assembly (Turnkey)	—	PCB fabrication + SMT assembly + parts below	—	£97.50	£97.50
+ 	—	Resistors (incl. 806 kΩ & 2 MΩ)	Link
+	~£2.00	
+ 	—	1N5819 Diodes	Link
+	~£1.50	
+ 	—	SK6812‑E Reverse Mount LEDs	Link
+	~£10.00	
+ 	—	Kailh Hotswap Sockets	Link
+	~£10.00	
+ 	10	Heat‑set inserts (M3×5×4 mm)	Link
+	~£5.00	
+Standalone Parts (AliExpress)	2	XIAO‑nRF52840‑SMD	Link
+	£10.98	£21.96
+	40	MX‑Style Switches	Link
+	£0.18	£7.20
+	40	Blank DSA Keycaps	Link
+	£0.31*	£12.40
+	2	0.96″ OLED Displays	Link
+	£1.90*	£3.80
+	1	Battery 1000 mAh LiPo	Link
+	£7.57	£7.57
+	10	Rotary Encoders (10‑pack)	Link
+	£5.80 (pack)	£5.80
+	1	Case (6× 3D printed parts)	Link
+ (example 3D printed case part on AliExpress)	£5.00	£5.00
+
 
