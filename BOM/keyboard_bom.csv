@@ -1,14 +1,17 @@
 Category,Qty,Component,AliExpress Link,Unit Price (≈),Total (≈)
-JLCPCB Assembly (Turnkey),-,PCB fabrication + SMT assembly + parts below,-,£97.50,£97.50
-JLCPCB Assembly,-,Resistors (incl. 806 kΩ & 2 MΩ),https://www.aliexpress.com/item/1005007982822787.html,~£2.00,-
-JLCPCB Assembly,-,1N5819 Diodes,https://www.aliexpress.com/item/1005001552094086.html,~£1.50,-
-JLCPCB Assembly,-,SK6812‑E Reverse Mount LEDs,https://www.aliexpress.com/item/1005005340818659.html,~£10.00,-
-JLCPCB Assembly,-,Kailh Hotswap Sockets,https://www.aliexpress.com/item/1005007232040760.html,~£10.00,-
-JLCPCB Assembly,10,Heat‑set inserts (M3×5×4 mm),https://www.aliexpress.com/item/4000232858343.html,~£5.00,-
+JLCPCB Assembly,1,PCB fabrication + SMT assembly,-,£7.00,£7.00
+JLCPCB Assembly,1,Setup / stencil / machine fees,-,£18.00,£18.00
+JLCPCB Assembly,1,SMT assembly labor (SMT joints),-,£5.50,£5.50
+JLCPCB Assembly,4,Resistors (incl. 806 kΩ & 2 MΩ),https://www.aliexpress.com/item/1005007982822787.html,~£0.50,£2.00
+JLCPCB Assembly,40,1N5819 Diodes,https://www.aliexpress.com/item/1005001552094086.html,~£0.04,£1.60
+JLCPCB Assembly,45,SK6812‑E Reverse Mount LEDs,https://www.aliexpress.com/item/1005005340818659.html,~£0.22,£9.90
+JLCPCB Assembly,40,Kailh Hotswap Sockets,https://www.aliexpress.com/item/1005007232040760.html,~£0.25,£10.00
+JLCPCB Assembly,10,Heat‑set inserts (M3×5×4 mm),https://www.aliexpress.com/item/4000232858343.html,~£0.50,£5.00
 Standalone,2,XIAO‑nRF52840‑SMD,https://www.aliexpress.com/item/1005006988954136.html,£10.98,£21.96
 Standalone,40,MX‑Style Switches,https://www.aliexpress.com/item/1005005611380330.html,£0.18,£7.20
-Standalone,40,Blank DSA Keycaps,https://www.aliexpress.com/wholesale?SearchText=blank+DSA+keycaps,£0.31*,£12.40
-Standalone,2,0.96″ OLED Displays,https://www.aliexpress.com/wholesale?SearchText=0.96+oled+display,£1.90*,£3.80
+Standalone,40,Blank DSA Keycaps,https://www.aliexpress.com/wholesale?SearchText=blank+DSA+keycaps,£0.31,£12.40
+Standalone,2,0.96″ OLED Displays,https://www.aliexpress.com/wholesale?SearchText=0.96+oled+display,£1.90,£3.80
 Standalone,1,Battery 1000 mAh LiPo,https://www.aliexpress.com/item/1005007000725960.html,£7.57,£7.57
 Standalone,10,Rotary Encoders (10‑pack),https://www.aliexpress.com/wholesale?SearchText=rotary+encoder,£5.80 (pack),£5.80
 Standalone,1,Case (6× 3D printed parts),https://www.aliexpress.com/item/4001195430602.html,£5.00,£5.00
+,,**SUM TOTAL**, , ,£120.23
