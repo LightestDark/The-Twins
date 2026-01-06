@@ -1,28 +1,14 @@
-Category	Qty	Component	AliExpress Link	Unit Price (≈)	Total (≈)
-JLCPCB Assembly (Turnkey)	—	PCB fabrication + SMT assembly + parts below	—	£97.50	£97.50
- 	—	Resistors (incl. 806 kΩ & 2 MΩ)	Link
-	~£2.00	
- 	—	1N5819 Diodes	Link
-	~£1.50	
- 	—	SK6812‑E Reverse Mount LEDs	Link
-	~£10.00	
- 	—	Kailh Hotswap Sockets	Link
-	~£10.00	
- 	10	Heat‑set inserts (M3×5×4 mm)	Link
-	~£5.00	
-Standalone Parts (AliExpress)	2	XIAO‑nRF52840‑SMD	Link
-	£10.98	£21.96
-	40	MX‑Style Switches	Link
-	£0.18	£7.20
-	40	Blank DSA Keycaps	Link
-	£0.31*	£12.40
-	2	0.96″ OLED Displays	Link
-	£1.90*	£3.80
-	1	Battery 1000 mAh LiPo	Link
-	£7.57	£7.57
-	10	Rotary Encoders (10‑pack)	Link
-	£5.80 (pack)	£5.80
-	1	Case (6× 3D printed parts)	Link
- (example 3D printed case part on AliExpress)	£5.00	£5.00
-
-
+Category,Qty,Component,AliExpress Link,Unit Price (≈),Total (≈)
+JLCPCB Assembly (Turnkey),-,PCB fabrication + SMT assembly + parts below,-,£97.50,£97.50
+JLCPCB Assembly,-,Resistors (incl. 806 kΩ & 2 MΩ),https://www.aliexpress.com/item/1005007982822787.html,~£2.00,-
+JLCPCB Assembly,-,1N5819 Diodes,https://www.aliexpress.com/item/1005001552094086.html,~£1.50,-
+JLCPCB Assembly,-,SK6812‑E Reverse Mount LEDs,https://www.aliexpress.com/item/1005005340818659.html,~£10.00,-
+JLCPCB Assembly,-,Kailh Hotswap Sockets,https://www.aliexpress.com/item/1005007232040760.html,~£10.00,-
+JLCPCB Assembly,10,Heat‑set inserts (M3×5×4 mm),https://www.aliexpress.com/item/4000232858343.html,~£5.00,-
+Standalone,2,XIAO‑nRF52840‑SMD,https://www.aliexpress.com/item/1005006988954136.html,£10.98,£21.96
+Standalone,40,MX‑Style Switches,https://www.aliexpress.com/item/1005005611380330.html,£0.18,£7.20
+Standalone,40,Blank DSA Keycaps,https://www.aliexpress.com/wholesale?SearchText=blank+DSA+keycaps,£0.31*,£12.40
+Standalone,2,0.96″ OLED Displays,https://www.aliexpress.com/wholesale?SearchText=0.96+oled+display,£1.90*,£3.80
+Standalone,1,Battery 1000 mAh LiPo,https://www.aliexpress.com/item/1005007000725960.html,£7.57,£7.57
+Standalone,10,Rotary Encoders (10‑pack),https://www.aliexpress.com/wholesale?SearchText=rotary+encoder,£5.80 (pack),£5.80
+Standalone,1,Case (6× 3D printed parts),https://www.aliexpress.com/item/4001195430602.html,£5.00,£5.00
