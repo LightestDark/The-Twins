@@ -1,16 +1,13 @@
-Here’s the full BOM as a **table** for easy viewing:
-
-| Quantity | Component                                | Link                                                                                             | Notes                |
-| -------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------- |
-| 2        | XIAO‑nRF52840‑SMD                        | [Link](https://www.aliexpress.com/item/1005006988954136.html)                                    |                      |
-| 40       | 1N5819 SMD Diodes                        | [Link](https://www.aliexpress.com/item/1005001552094086.html)                                    |                      |
-| 12       | M3×5×4mm Heatset Inserts                 | [Link](https://www.aliexpress.com/item/4000232858343.html)                                       |                      |
-| 40       | MX‑Style switches                        | [Link](https://www.aliexpress.com/item/1005005611380330.html)                                    |                      |
-| 40       | Blank DSA Keycaps                        | [Link](https://www.amazon.co.uk/Keyboard-Gradient-Mechanical-Keyboards…)                         |                      |
-| 42       | SK6812‑E Reverse Mount LEDs              | [Link](https://www.aliexpress.com/item/1005005340818659.html)                                    |                      |
-| 4        | Resistors (incl. 806 kΩ & 2 MΩ)          | [Link](https://www.aliexpress.com/item/1005007982822787.html)                                    |                      |
-| 12       | M3×10 Screws                             | [Link](https://www.vital-parts.co.uk/low-head-socket-cap-screw-din-7984/14785-lsc7984-m3-16-a4?) |                      |
-| 40       | Kailh Hotswappable Sockets               | [Link](https://www.aliexpress.com/item/1005007232040760.html)                                    |                      |
-| 2        | 0.96‑inch OLED                           | [Link](https://www.amazon.co.uk/dp/B07Z8QBRWN)                                                   |                      |
-| 1        | Case (6 3D printed parts − 3 left/right) |                                                                                                  | Sourced by Hack Club |
-| 1        | 1000 MAH Battery |                       | https://www.aliexpress.com/item/1005007000725960.html?src=bing&albch=sem&acnt=3188528&isdl=y&aff_short_key=UneMJZVf&albcp=555057195&albag=1300723405258645&slnk=&trgt=dat-2333094954934110:loc-188&plac=&crea=81295268513347&netw=o&device=c&mtctp=b&utm_source=Bing&utm_medium=ppc&utm_campaign=Search_DSA_EN_UK_PC_Domain_TCPA_20240819&utm_content=Domain&utm_term=aliexpress.com-3.7V%201200mAh%20603450%20Lipo%20Rechargeable%20Battery&msclkid=c6c0cbe1acc719ec486fa2af425aab37
+| Qty | Value                | Footprint / Notes                                 | References / Notes | Source / Link                                                                              | Price per used Qty |
+| --- | -------------------- | ------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------ | ------------------ |
+| 2   | R1 (806 kΩ)          | Resistor_SMD:R_0805_2012Metric                    | 806K1, 806K2       | JLCPCB / C23250                                                                            | $0.0024            |
+| 2   | R2 (2.2 MΩ)          | Resistor_SMD:R_0805_2012Metric                    | 2M1, 2M2           | JLCPCB / C26113                                                                            | $0.0052            |
+| 40  | 1N5819 Diode         | Diode_SMD:D_SOD-123                               | D1–D40             | JLCPCB / C2474                                                                             | $0.995             |
+| 44  | SK6812MINI-E LED     | SKNEW:SK6812MINI-E_fixed                          | D41–D84, D90       | JLCPCB / C5149201                                                                          | $3.04              |
+| 40  | SW_Push              | PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u        | SW1–SW40           | AliExpress / [Link](https://www.aliexpress.us/item/3256808812099705.html)                  | $12.89             |
+| 2   | OLED_DISPLAY         | Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm | J1, J2             | AliExpress / [Link](https://www.aliexpress.us/item/3256806486516851.html)                  | $4.03              |
+| 2   | XIAO‑nRF52840‑SMD    | OPL:modified‑XIAO‑nRF52840‑SMD                    | U1, U2             | The Pi Hut / [Link](https://thepihut.com/products/seeed-xiao-ble-nrf52840)                 | $25.41             |
+| 2   | Rubber mat           | Standalone part                                   | –                  | Amazon / [Link](https://www.amazon.co.uk/4PCS-Enhanced-Cuttable-Rubber-Grip/dp/B0F32WG6FG) | $3.21              |
+| 2   | Foam sheet           | Standalone part                                   | –                  | AliExpress / [Link](https://www.aliexpress.us/item/3256805908759047.html)                  | $2.00              |
+| 8   | Neodymium magnet 5mm | Standalone part                                   | –                  | AliExpress / [Link](https://www.aliexpress.us/item/3256809168494688.html)                  | $1.00              |
+| 2   | On/Off switch        |                                                   |                    |                                                                                            |                    |
