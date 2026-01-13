@@ -9,7 +9,8 @@ Qty_used,Value,Footprint/Notes,References/Notes,Source/Link,Price_pack_USD
 2,Rubber mat,Standalone part,-,Amazon / https://www.amazon.co.uk/4PCS-Enhanced-Cuttable-Rubber-Grip/dp/B0F32WG6FG,6.42
 2,Foam sheet,Standalone part,-,AliExpress / https://www.aliexpress.us/item/3256805908759047.html,2
 8,Neodymium magnet 5mm,Standalone part,-,AliExpress / https://www.aliexpress.us/item/3256809168494688.html,1
-2,On/Off switch,Standalone pa
+2,On/Off switch,Standalone part,SW_A,SW_B,AliExpress / https://www.aliexpress.us/item/3256807128995360.html,1
+,,,,,83.0035
 
 
 
