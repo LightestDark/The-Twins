@@ -1,19 +1,18 @@
-Qty_used,Value,Footprint/Notes,References/Notes,Source/Link,Price_pack_USD,Extended_Cost_USD
-2,R1 (806kΩ),Resistor_SMD:R_0805_2012Metric,806K1,806K2,"https://jlcpcb.com/parts/C23250",0.0240,0.048
-2,R2 (2.2MΩ),Resistor_SMD:R_0805_2012Metric,2M1,2M2,"https://jlcpcb.com/parts/C26113",0.0520,0.104
-40,1N5819 Diode,Diode_SMD:D_SOD-123,D1-D40,"https://jlcpcb.com/parts/C2474",5.1045,204.18
-44,SK6812MINI-E LED,SKNEW:SK6812MINI-E_fixed,D41-D84,"https://jlcpcb.com/parts/C5149201",6.9100,304.04
-40,SW_Push,PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u,SW1-SW40,"https://www.aliexpress.us/item/3256808812099705.html",29,1160
-2,OLED_DISPLAY,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm,J1-J2,"https://www.aliexpress.us/item/3256806486516851.html",6.05,12.10
-2,XIAO-nRF52840-SMD,OPL:modified-XIAO-nRF52840-SMD,U1-U2,"https://thepihut.com/products/seeed-xiao-ble-nrf52840",25.41,50.82
-2,Rubber mat,Standalone part,-,"https://www.amazon.co.uk/4PCS-Enhanced-Cuttable-Rubber-Grip/dp/B0F32WG6FG",6.42,12.84
-2,Foam sheet,Standalone part,-,"https://www.aliexpress.us/item/3256805908759047.html",2,4
-8,Neodymium magnet 5mm,Standalone part,-,"https://www.aliexpress.us/item/3256809168494688.html",1,8
-2,On/Off switch,Standalone part,SW_A-SW_B,"https://www.aliexpress.us/item/3256807128995360.html",1,2
-1,PCB,PCB_2layer,Custom PCB,"https://jlcpcb.com",13.30,13.30
-1,PCB Shipping,Shipping,Custom PCB,"https://jlcpcb.com",7.65,7.65
-1,3D Case,Casing,Enclosure,"Custom / 3D print",10.00,10.00
-Total,,,,,113.95,1888.03
+Qty_used,Value,Footprint/Notes,References/Notes,Source/Link,Price_pack_USD
+2,R1 (806kΩ),Resistor_SMD:R_0805_2012Metric,806K1,806K2,JLCPCB / C23250,0.0240
+2,R2 (2.2MΩ),Resistor_SMD:R_0805_2012Metric,2M1,2M2,JLCPCB / C26113,0.0520
+40,1N5819 Diode,Diode_SMD:D_SOD-123,D1-D40,JLCPCB / C2474,5.1045
+44,SK6812MINI-E LED,SKNEW:SK6812MINI-E_fixed,D41-D84, D90,JLCPCB / C5149201,6.9100
+40,SW_Push,PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u,SW1-SW40,AliExpress / https://www.aliexpress.us/item/3256808812099705.html,29
+2,OLED_DISPLAY,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm,J1,J2,AliExpress / https://www.aliexpress.us/item/3256806486516851.html,6.05
+2,XIAO-nRF52840-SMD,OPL:modified-XIAO-nRF52840-SMD,U1,U2,The Pi Hut / https://thepihut.com/products/seeed-xiao-ble-nrf52840,25.41
+2,Rubber mat,Standalone part,-,Amazon / https://www.amazon.co.uk/4PCS-Enhanced-Cuttable-Rubber-Grip/dp/B0F32WG6FG,6.42
+2,Foam sheet,Standalone part,-,AliExpress / https://www.aliexpress.us/item/3256805908759047.html,2
+8,Neodymium magnet 5mm,Standalone part,-,AliExpress / https://www.aliexpress.us/item/3256809168494688.html,1
+2,On/Off switch,Standalone part,SW_A,SW_B,AliExpress / https://www.aliexpress.us/item/3256807128995360.html,1
+Total,,,,,83.0035
+
+
 
 
 
